@@ -10,6 +10,8 @@ public class Arraysdemo1 {
 		a[0] = 4;
 		a[5] = 5;
 		
+		//here i did some edit to check on github
+		
 		System.out.println(a[1] + a[2]);
 	}
 }
